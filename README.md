@@ -1,3 +1,6 @@
+The [Specialist Pharmacy Service](https://www.sps.nhs.uk/) are produing a series of pages to guide on delaying administration of injectable medicines in primary care during the pandemic. They have requested figures for prescribing data in primary care and this is recorded in this repo.
+
+
 #EBM DataLab's skeleton notebook environment
 
 ## Getting started with this skeleton project
